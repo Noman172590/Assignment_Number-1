@@ -1,0 +1,258 @@
+.head {
+    background-image: url('images/banner/banner1.png');
+    height: 800px;
+    width: 100%;
+    margin-bottom: 131px;
+}
+
+
+.head-title {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    margin-bottom: 24px;
+    line-height: 76px;
+
+}
+
+.head-div {
+    margin-right: 120px;
+    margin-bottom: 250px;
+
+}
+
+.head-paragrap {
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    color: #444343;
+    line-height: 26px;
+
+
+}
+
+
+.head-button {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    border: none;
+    color: #FFFFFF;
+    background-color: tomato;
+    width: 160px;
+    height: 64px;
+}
+
+.section-pic {
+    margin-left: 150px;
+    margin-right: 55px;
+}
+
+
+.section-h1 {
+    font-family: 'Work Sans';
+
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 20px;
+
+}
+
+.section-1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.section-p1 {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+
+.section-p2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 8px;
+}
+
+.section-2-h1 {
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    text-align: center;
+}
+
+.section-2-div-h1 {
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+
+}
+
+.section-2-div-p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+.section-2-div-include {
+    text-align: center;
+}
+
+.section-2-div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-3 {
+    background-image: url('images/gradient2.png'), url('images/watch.png');
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 80%;
+    margin-left: 90px;
+    border-radius: 8px;
+
+}
+
+.section-3-h1 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+
+.main {
+    margin-bottom: 130px;
+    width: 100%;
+}
+
+.secton-3-button {
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px;
+    color: tomato;
+    border-radius: 5px;
+    line-height: 23px;
+}
+
+.footer {
+    width: 100%;
+    height: 577px;
+    background: #151414;
+}
+
+.footer-div-h1 {
+    color: white;
+    font-family: 'Work Sans';
+}
+
+.footer-div-p {
+    color: white;
+    font-family: 'Work Sans';
+}
+
+.footer-dib-pic {
+    margin-right: 17px;
+}
+
+.footer-div {
+    display: flex;
+
+}
+
+.footer-end {
+    color: gray;
+    text-align: center;
+}
+
+.footer-end:hover {
+    color: tomato;
+}
+
+.footer-div-btn {
+    background-color: white;
+    border: none;
+    width: 185px;
+    height: 50px;
+    color: orange;
+    font-size: 21px;
+    border-radius: 9px;
+}
+
+.footer-div-btn:hover {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.footer-emil {
+    width: 185px;
+    height: 50px;
+    color: white;
+    background-color:
+        black;
+    border-radius:
+        7px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    margin-bottom: 16px;
+}
+.secton-3-button:hover{
+                            background-color:blueviolet;
+                            color: white;
+}
+.head-button:hover{
+                    background-color: hotpink;
+                    color: white;
+}
+.section-p1:hover{
+    
+    color:lightcoral;  
+}
+.section-p2:hover{
+    color:red;
+}
+.section-h1:hover{
+    color: crimson;
+}
+.section-3-h1:hover{
+    color: red;
+}
+.head-title:hover{
+
+                    color:hotpink;
+                   
+}
+.head-paragrap:hover{
+    color:tomato;
+}
+.section-2-div-h1:hover{
+    color: darkcyan;
+}
+.footer-div-p:hover{
+    color:burlywood;
+    
+}
